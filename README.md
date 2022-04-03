@@ -17,11 +17,11 @@ BlazingInfernoDragon123 Channel
 ```
 </a>
 
-Plss check it here out👇👇👇
-
+Plss check the first Project Image Link here
 <a href="https://raw.githubusercontent.com/BlaizingInfernoDragon123/save-the-earth-/main/Earth.webp">
 ```
-Our First Project Image Click Here
+First Project Image Link
+```
 </a>
 ```
 
